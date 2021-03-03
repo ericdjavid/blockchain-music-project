@@ -1,7 +1,7 @@
 import CategoryButtons from "./CategoryButtons";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
-
+//this is where all the magic happens
 const Layout = ({ children, categories }) => {
   return (
     <div className="flex justify-center bg-gray-200">

@@ -1,4 +1,4 @@
-import Head from "next/head";
+  import Head from "next/head";
 import { useRouter } from "next/router";
 import { getProducts, getProduct } from "../../utils/api";
 import { getStrapiMedia } from "../../utils/medias";
